@@ -29,4 +29,6 @@ View content of files stored in S3.
   
 # Start the server
 ./mvnw spring-boot:run
+# System Architecture Diagram
 <img width="681" height="287" alt="image_720(1)" src="https://github.com/user-attachments/assets/17a16fb5-070e-4343-bdc3-aaabcd5b99f3" />
+
